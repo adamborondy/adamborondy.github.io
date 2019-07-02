@@ -1,8 +1,8 @@
 ---
-title: "Test"
+title: "Test 2"
 date: 2019-07-01
 tags: [introduction, data science]
-excerpt: "Machine Learning"
+excerpt: "Machine Learning 2"
 mathjax: true
 ---
 # H1
