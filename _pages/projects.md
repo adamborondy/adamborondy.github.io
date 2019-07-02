@@ -7,12 +7,12 @@ header:
   image: "images/background.jpg"
 ---
 {% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.projects field="tags" %}
 
 {% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
+  {% assign projects = group_items[forloop.index0] %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
+  {% for post in projects %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
