@@ -2,8 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-  image: "images/background.png"
+  image: "images/background.jpg"
 ---
 Data Science Master
 
-etc. etc.
+etc. etc. etc.
