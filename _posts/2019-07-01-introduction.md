@@ -4,7 +4,6 @@ date: 2019-07-01
 tags: [introduction, data science]
 excerpt: "Machine Learning 2"
 mathjax: true
-classes: wide
 ---
 # H1
 

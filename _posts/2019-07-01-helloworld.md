@@ -4,7 +4,6 @@ date: 2019-07-01
 tags: [introduction, webpage]
 excerpt: "Machine Learning"
 mathjax: true
-classes: wide
 ---
 # H1
 
